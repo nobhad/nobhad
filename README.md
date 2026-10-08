@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Noelle. I'm a design engineer and full-stack developer in Brookline, MA.
 
-<!--
-**nobhad/nobhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software for people who've been priced out of good software: small businesses, independent artists, and one-person studios.
 
-Here are some ideas to get you started:
+### What I've built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Health Ledger** is a local-first personal health record. It runs on your own machine with nothing uploaded. [Repo](https://github.com/nobhad/health-ledger)
+
+**nobhad.codes** is my portfolio and client platform, with a design system of 943 tokens driving three themed surfaces. [Design system](https://nobhad.codes/design-system)
+
+**Hedgewitch Horticulture** is a live site and custom CMS for a small business. [hedgewitchhorticulture.com](https://hedgewitchhorticulture.com)
+
+**Stack:** TypeScript, React, Next.js, Node.js, PostgreSQL, Python/Flask, GSAP
+
+Portfolio: [nobhad.codes](https://nobhad.codes)
